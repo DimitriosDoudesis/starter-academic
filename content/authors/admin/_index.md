@@ -25,6 +25,7 @@ interests:
 - Medical Statistics
 - Precision Medicine
 - Cardiology
+- R / Shiny
 
 education:
   courses:
