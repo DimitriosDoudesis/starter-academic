@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: 3rd year PhD student
+role: Final-year PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Edinburgh
+- name: The University of Edinburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
