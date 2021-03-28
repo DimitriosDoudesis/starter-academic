@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
   date_start = "2020-04-01"
-  date_end = "2020-9-31"
+  date_end = "2020-09-30"
   description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.* (Lead Dr Areti Manataki)"""
   
 [[experience]]
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   company_url = "http://www.predicta.gr/"
   location = "Greece"
   date_start = "2017-03-01"
-  date_end = "2017-10-31"
+  date_end = "2017-09-30"
   description = """Project: *International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece.*"""  
 
 +++
