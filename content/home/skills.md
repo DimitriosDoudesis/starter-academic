@@ -22,25 +22,25 @@ subtitle = ""
   
 [[feature]]
   icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""  
-  
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
-  description = ""
-  
-[[feature]]
-  icon = "python"
   icon_pack = "fa"
   name = "Python"
   description = ""  
   
 [[feature]]
   icon = "database"
+  icon_pack = "fab"
+  name = "SQL"
+  description = ""
+  
+[[feature]]
+  icon = "python"
   icon_pack = "fas"
+  name = "Python"
+  description = ""  
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fab"
   name = "SQL"
   description = ""
 
