@@ -46,16 +46,15 @@ date_format = "Jan 2006"
   location = "United Kingdom"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.* (Lead Dr Areti Manataki)"""
   
 [[experience]]
-  title = "Data Analyst"
-  company = "PREDICTA S.A. (former SPSS BI GREECE S.A.)"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Greece"
-  date_start = "2015-03-01"
-  date_end = "2015-09-31"
-  description = """Project: International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece."""  
-    
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""  
 
 +++
