@@ -33,13 +33,13 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "python"
+  icon = ""
   icon_pack = "fab"
   name = "SPSS Statistics"
   description = ""  
   
 [[feature]]
-  icon = "database"
+  icon = ""
   icon_pack = "fab"
   name = "SPSS Modeller"
   description = ""
