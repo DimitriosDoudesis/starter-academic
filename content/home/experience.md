@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   company = "The University of Edinburgh"
   company_url = ""
   location = "United Kingdom"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2020-04-01"
+  date_end = "2020-09-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
   
 [[experience]]
