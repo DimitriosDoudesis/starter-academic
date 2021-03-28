@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant"
+  title = "Teaching Assistant/Tutor"
   company = "The University of Edinburgh"
   company_url = ""
   location = "United Kingdom"
@@ -27,6 +27,15 @@ date_format = "Jan 2006"
   description = """
   Courses:
   
+  * Health Data Science
+  * Data Science in Medicine
+  * Machine Learning in Python
+  * Statistical Computing
+  * Introduction to Statistics
+  * Advanced Epidemiology
+  * Statistical Modelling
+  * Biomedical Data Science
+  * Statistics (Year 2)
 
   """
 
@@ -35,17 +44,18 @@ date_format = "Jan 2006"
   company = "The University of Edinburgh"
   company_url = ""
   location = "United Kingdom"
-  date_start = "2018-04-01"
-  date_end = "2018-09-31"
-  description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.* (Lead Dr Areti Manataki)"""
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
   
 [[experience]]
   title = "Data Analyst"
   company = "PREDICTA S.A. (former SPSS BI GREECE S.A.)"
   company_url = ""
   location = "Greece"
-  date_start = "2017-03-01"
-  date_end = "2017-09-31"
-  description = """Project: *International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece.*"""  
+  date_start = "2015-03-01"
+  date_end = "2015-09-31"
+  description = """Project: International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece."""  
+    
 
 +++
