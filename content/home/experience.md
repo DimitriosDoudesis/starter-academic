@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   company = "The University of Edinburgh"
   company_url = ""
   location = "United Kingdom"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2018-01-01"
+  date_end = "2018-12-31"
   description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.* (Lead Dr Areti Manataki)"""
   
 [[experience]]
