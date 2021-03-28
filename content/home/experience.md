@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   location = "United Kingdom"
   date_start = "2020-04-01"
   date_end = "2020-09-31"
-  description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.* (Lead Dr Areti Manataki)"""
+  description = """Project:Student perspectives on Learning and Teaching Data Science in the MBChB programme (Lead Dr Areti Manataki)"""
   
 [[experience]]
   title = "Professor"
