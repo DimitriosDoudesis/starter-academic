@@ -28,20 +28,20 @@ subtitle = ""
   
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "SQL"
   description = ""
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python"
+  name = "SPSS Statistics"
   description = ""  
   
 [[feature]]
   icon = "database"
   icon_pack = "fab"
-  name = "SQL"
+  name = "SPSS Modeller"
   description = ""
 
 # Uncomment to use emoji icons.
