@@ -40,13 +40,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor X"
-  company = "University X"
+  title = "Research Assistant"
+  company = "The University of Edinburgh"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "United Kingdom"
+  date_start = "2020-04-01"
+  date_end = "2020-09-31"
+  description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.* (Lead Dr Areti Manataki)"""
   
 [[experience]]
   title = "Professor"
