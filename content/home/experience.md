@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Teaching Assistant/Tutor"
   company = "The University of Edinburgh"
-  company_url = ""
+  company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
   date_start = "2019-09-01"
   date_end = ""
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
   date_start = "2020-04-01"
-  date_end = "2020-10-31"
+  date_end = "2020-9-31"
   description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.* (Lead Dr Areti Manataki)"""
   
 [[experience]]
