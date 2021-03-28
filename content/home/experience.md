@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant/Tutor"
+  title = "Teaching Assistant"
   company = "The University of Edinburgh"
   company_url = ""
   location = "United Kingdom"
@@ -27,15 +27,6 @@ date_format = "Jan 2006"
   description = """
   Courses:
   
-  * Health Data Science
-  * Data Science in Medicine
-  * Machine Learning in Python
-  * Statistical Computing
-  * Introduction to Statistics
-  * Advanced Epidemiology
-  * Statistical Modelling
-  * Biomedical Data Science
-  * Statistics (Year 2)
 
   """
 
