@@ -25,11 +25,18 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Courses:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Health Data Science
+  * Data Science in Medicine
+  * Machine Learning in Python
+  * Statistical Computing
+  * Introduction to Statistics
+  * Advanced Epidemiology
+  * Statistical Modelling
+  * Biomedical Data Science
+  * Statistics (Year 2)
+
   """
 
 [[experience]]
