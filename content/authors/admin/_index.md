@@ -18,14 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, statistics and precision medicine.
 
 interests:
 - Machine Learning
+- Deep Learning
 - Medical Statistics
 - Precision Medicine
 - Cardiology
-- R / Shiny
+- App development (Shiny)
 
 education:
   courses:
@@ -46,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:D.Doudesis@ed.ac.uk".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2CfnVDgAAAAJ&hl=enJ
@@ -75,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I am a final-year PhD student in Data Science/Precision Medicine at The University of Edinburgh. I studied *Statistics* at the Athens University of Economics and Business (2017), and completed an MSc in **Medical Statistics** at the University of Southampton (2018). I have previously worked as a Data Analyst at PREDICTA S.A. (former SPSS BI GREECE S.A.).  
+I am a final-year PhD student in **Data Science/Precision Medicine** at The University of Edinburgh. I studied **Statistics** at The Athens University of Economics and Business (2017), and completed an MSc in **Medical Statistics** at The University of Southampton (2018). I have previously worked as a Data Analyst at PREDICTA S.A. (former SPSS BI GREECE S.A.).  
 
-My research interests are machine learning, deep learning, medical statistics, cardiology and R Shiny app development as clinical decision support tool.
+My research interests are machine learning, deep learning, medical statistics, cardiology and R Shiny app development as clinical decision support tools.
