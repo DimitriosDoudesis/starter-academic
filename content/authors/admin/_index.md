@@ -51,12 +51,18 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2CfnVDgAAAAJ&hl=enJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6699-9476
 - icon: github
   icon_pack: fab
   link: https://github.com/DimitriosDoudesis
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DDoudesis
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Dimitrios-Doudesis
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
