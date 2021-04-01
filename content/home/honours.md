@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Professional Affiliations"
+title = "Honours & Awards"
 subtitle = ""
 
 # Date format
@@ -19,32 +19,32 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "RSS"
+  organization = "European Society of Cardiology [ESC]"
   organization_url = ""
-  title = "Fellow of Royal Statistical Society (FRSS)"
+  title = "Young Investigator Award - Clinical Cardiology (Runner-up), Runner-up"
   url = ""
   certificate_url = ""
-  date_start = "2021-02-03"
+  date_start = "2020-10-03"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "HE"
+  organization = "Global Research on Acute Conditions Team [GREAT]"
   organization_url = ""
-  title = "Associate Fellow of Higher Education (AFHE)"
+  title = "Young Investigator Award (First prize)"
   url = ""
   certificate_url = ""
-  date_start = "2021-01-02"
+  date_start = "2020-01-02"
   date_end = ""
   description = ""
   
 [[item]]
-  organization = "ADaSci"
+  organization = "Scottish Heart and Arterial Risk disease Prevention [SHARP]"
   organization_url = ""
-  title = "Member of Association of Data Scientists (MADaSci)"
+  title = "Best oral presenter prize"
   url = ""
   certificate_url = ""
-  date_start = "2021-01-01"
+  date_start = "2020-01-01"
   date_end = ""
   description = ""
 
