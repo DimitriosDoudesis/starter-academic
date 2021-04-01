@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2016"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -56,7 +56,7 @@ date_format = "2016"
   certificate_url = ""
   date_start = "2017-10-02"
   date_end = ""
-  description = ""
+  description = "The University of Southampton, 1 year - fees and stipend, £23,553"
   
 
 +++
