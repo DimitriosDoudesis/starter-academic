@@ -33,14 +33,14 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = ""
-  icon_pack = "fab"
+  icon = "spss"
+  icon_pack = "custom"
   name = "SPSS Statistics"
   description = ""  
   
 [[feature]]
-  icon = ""
-  icon_pack = "fab"
+  icon = "spss"
+  icon_pack = "custom"
   name = "SPSS Modeller"
   description = ""
 
