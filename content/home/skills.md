@@ -39,13 +39,13 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "spss4 - Copy"
+  icon = "spss"
   icon_pack = "custom"
   name = "SPSS Statistics"
   description = ""  
   
 [[feature]]
-  icon = "spss4"
+  icon = "spss"
   icon_pack = "custom"
   name = "SPSS Modeller"
   description = ""
