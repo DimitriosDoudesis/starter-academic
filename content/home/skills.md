@@ -33,6 +33,12 @@ subtitle = ""
   description = ""
   
 [[feature]]
+  icon = "shiny"
+  icon_pack = "custom"
+  name = "Shiny"
+  description = ""
+  
+[[feature]]
   icon = "spss4"
   icon_pack = "custom"
   name = "SPSS Statistics"
