@@ -19,7 +19,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, statistics and precision medicine.
+ 
 
+email: "D.Doudesis@ed.ac.uk"
 interests:
 - Machine Learning
 - Deep Learning
