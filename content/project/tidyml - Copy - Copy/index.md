@@ -1,11 +1,11 @@
 ---
-aliases: [tidymodels]
-title: Introduction to Machine Learning with the Tidyverse 
-summary: Introducing the basics of machine learning in R using tidymodels
+aliases: []
+title: CoDE-HF 
+summary: Collaboration for the Diagnosis and Evaluation of acute Heart Failure
 abstract: ""
 date: "2020-01-27T00:00:00Z"
 image:
-  caption: '[Photo by Daniel Cheung on Unsplash](https://unsplash.com/photos/sCdm5DiJb8w)'
+  caption: ''
   focal_point: Smart
 links:
 - icon: door-open
