@@ -1,7 +1,7 @@
 ---
 aliases: []
-title: CoDE-HF 
-summary: Collaboration for the Diagnosis and Evaluation of acute Heart Failure
+title: CoDE-MI 
+summary: Collaboration for the Diagnosis and Evaluation of acute Myocardial Infarction
 abstract: ""
 date: "2020-01-27T00:00:00Z"
 image:
