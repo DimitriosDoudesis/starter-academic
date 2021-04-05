@@ -3,7 +3,7 @@ aliases: []
 title: CoDE-HF 
 summary: Collaboration for the Diagnosis and Evaluation of acute Heart Failure
 abstract: ""
-date: "2020-01-27T00:00:00Z"
+date: "2021-01-27T00:00:00Z"
 image:
   caption: ''
   focal_point: Smart
