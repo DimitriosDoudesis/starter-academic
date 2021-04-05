@@ -1,6 +1,6 @@
 ---
 aliases: []
-title: MI<sup>3</sup> 
+title: MI^3^ 
 summary: Collaboration for the Diagnosis and Evaluation of acute Heart Failure
 abstract: ""
 date: "2019-01-27T00:00:00Z"
