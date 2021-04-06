@@ -10,16 +10,13 @@ image:
 links:
 - icon: door-open
   icon_pack: fas
-  name: rstudio::conf(2020) website
-  url: https://conf20-intro-ml.netlify.com/
-- icon: door-open
-  icon_pack: fas
-  name: R / Medicine 2020 website
-  url: https://tmv.netlify.app/site/
+  name: publication
+  url: 
+
 
 
 categories:
-- workshop
+- publication
 tags:
 - workshop
 - R
