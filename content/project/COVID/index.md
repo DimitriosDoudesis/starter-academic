@@ -1,8 +1,8 @@
 ---
 aliases: []
 title: COVID-19 
-summary: Collaboration for the Diagnosis and Evaluation of acute Heart Failure
-abstract: ""
+summary: Diagnostic performance of the combined nasal and throat swab in patients admitted to hospital with suspected COVID-19
+abstract: "Diagnostic performance of the combined nasal and throat swab in patients admitted to hospital with suspected COVID-19"
 date: "2020-01-27T00:00:00Z"
 image:
   caption: ''
@@ -19,16 +19,9 @@ links:
 
 
 categories:
-- workshop
+- publication
 tags:
-- workshop
-- R
-- blogdown
-- machine learning
-- tidymodels
+- covid-19
 ---
 
-These workshops provide a gentle introduction to supervised machine learning: concepts, methods, and R code. Participants learn how to train and assess predictive models with several common machine learning algorithms, as well as how to do feature engineering to improve the predictive accuracy of their models. We focus on teaching intuitive explanations of the models and best practices for predictive modeling. Along the way, we introduce several core [tidymodels](https://github.com/tidymodels) packages, which provide a grammar for modeling that makes it easy to the right thing, and harder to accidentally do the wrong thing. 
-
-
-See the workshop websites for more, including links to the GitHub repositories for all workshop materials.
+To-do
