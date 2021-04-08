@@ -19,6 +19,7 @@ categories:
 - publication
 tags:
 - covid-19
+- R
 ---
 
 To-do
