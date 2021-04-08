@@ -2,7 +2,7 @@
 aliases: []
 title: COVID-19 
 summary: Diagnostic performance of the combined nasal and throat swab in patients admitted to hospital with suspected COVID-19
-abstract: """
+abstract: ""
 date: "2020-01-27T00:00:00Z"
 image:
   caption: ''
