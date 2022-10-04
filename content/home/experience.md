@@ -18,6 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2022-03-01"
+  date_end = ""
+  description = """
+  """
+[[experience]]
+  title = "Course lead - Health Data Science"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2022-03-01"
+  date_end = ""
+  description = "https://www.ed.ac.uk/medicine-vet-medicine/postgraduate/postgraduate-blog/free-upskilling-with-health-data-science-course""
+  """
+  
+[[experience]]
   title = "Teaching Assistant/Tutor"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
@@ -46,7 +65,7 @@ date_format = "Jan 2006"
   location = "United Kingdom"
   date_start = "2020-04-01"
   date_end = "2020-09-30"
-  description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.* (Lead Dr Areti Manataki)"""
+  description = """Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.*"""
   
 [[experience]]
   title = "Data Analyst"
