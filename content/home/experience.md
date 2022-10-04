@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Postdoctoral Research Fellow"
   company = "The University of Edinburgh"
@@ -24,16 +25,17 @@ date_format = "Jan 2006"
   location = "United Kingdom"
   date_start = "2022-03-01"
   date_end = ""
-  description = """
+  description = ""
   """
+  
 [[experience]]
   title = "Course lead - Health Data Science"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
-  date_start = "2022-03-01"
+  date_start = "2022-09-01"
   date_end = ""
-  description = "https://www.ed.ac.uk/medicine-vet-medicine/postgraduate/postgraduate-blog/free-upskilling-with-health-data-science-course""
+  description = "https://www.ed.ac.uk/medicine-vet-medicine/postgraduate/postgraduate-blog/free-upskilling-with-health-data-science-course"
   """
   
 [[experience]]
@@ -43,7 +45,7 @@ date_format = "Jan 2006"
   location = "United Kingdom"
   date_start = "2019-09-01"
   date_end = ""
-  description = """
+  description = ""
   Courses:
   
   * Health Data Science
