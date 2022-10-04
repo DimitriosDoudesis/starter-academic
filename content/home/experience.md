@@ -1,24 +1,24 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
-
-title = "Experience"
-subtitle = ""
-
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
-
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[experience]]
+  # Experience widget.
+  widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+  headless = true  # This file represents a page section.
+  active = true  # Activate this widget? true/false
+  weight = 40  # Order that this section will appear.
+  
+  title = "Experience"
+  subtitle = ""
+  
+  # Date format for experience
+  #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+  date_format = "Jan 2006"
+  
+  # Experiences.
+  #   Add/remove as many `[[experience]]` blocks below as you like.
+  #   Required fields are `title`, `company`, and `date_start`.
+  #   Leave `date_end` empty if it's your current employer.
+  #   Begin/end multi-line descriptions with 3 quotes `"""`.
+  
+  [[experience]]
   title = "Postdoctoral Research Fellow"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
@@ -35,10 +35,10 @@ date_format = "Jan 2006"
   location = "United Kingdom"
   date_start = "2022-09-01"
   date_end = ""
-  description = ""
+  description = "https://www.ed.ac.uk/medicine-vet-medicine/postgraduate/postgraduate-blog/free-upskilling-with-health-data-science-course"
   """
   
-[[experience]]
+  [[experience]]
   title = "Teaching Assistant/Tutor"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   Courses:
-  
-  * Health Data Science
+    
+    * Health Data Science
   * Data Science in Medicine
   * Machine Learning in Python
   * Biomedical Data Science
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   * Statistics (Year 2)
   * Statistical Modelling
   * Statistical Computing
-
+  
   """
 
 [[experience]]
