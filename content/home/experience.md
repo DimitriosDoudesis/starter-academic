@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "United Kingdom"
   date_start = "2022-09-01"
   date_end = ""
-  description = "https://www.ed.ac.uk/medicine-vet-medicine/postgraduate/postgraduate-blog/free-upskilling-with-health-data-science-course"
+  description = ""
   """
   
 [[experience]]
