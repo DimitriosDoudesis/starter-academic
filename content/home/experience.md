@@ -18,6 +18,14 @@
   #   Leave `date_end` empty if it's your current employer.
   #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
-
+ [[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2022-03-01"
+  date_end = ""
+  description = ""
+  """
 
 +++
