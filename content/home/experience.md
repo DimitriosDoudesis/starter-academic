@@ -18,7 +18,7 @@
   #   Leave `date_end` empty if it's your current employer.
   #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
-[[experience]]
+[[experience]] 
   title = "Postdoctoral Research Fellow"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
@@ -26,17 +26,17 @@
   date_start = "2022-03-01"
   date_end = ""
   description = ""
-  
-[[experience]]
-  title = "Course Lead - Health Data Science"
+
+[[experience]] 
+  title = "Postdoctoral Research Fellow2"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
   date_start = "2022-09-01"
   date_end = ""
-  description = "" 
-  
-[[experience]]
+  description = ""
+
+[[experience]] 
   title = "Research Fellow"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
@@ -46,30 +46,30 @@
   description = ""
 
 [[experience]] 
-  title = "Teaching Assistant/Tutor" 
-  company = "The University of Edinburgh" 
-  company_url = "https://www.ed.ac.uk/" 
-  location = "United Kingdom" 
-  date_start = "2021-09-01" 
-  date_end = "2021-09-30" 
+  title = "Teaching Assistant/Tutor"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2021-09-01"
+  date_end = "2021-09-30"
   description = ""
 
-[[experience]]
-  title = "Research Assistant" 
-  company = "The University of Edinburgh" 
-  company_url = "https://www.ed.ac.uk/" 
-  location = "United Kingdom" 
-  date_start = "2020-04-01" 
-  date_end = "2020-09-30" 
+[[experience]] 
+  title = "Research Assistant"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2020-04-01"
+  date_end = "2020-09-30"
   description = "Project: Student perspectives on Learning and Teaching Data Science in the MBChB programme."
 
 [[experience]] 
-  title = "Data Analyst" 
-  company = "PREDICTA S.A. (former SPSS BI GREECE S.A.)" 
-  company_url = "http://www.predicta.gr/" 
-  location = "Greece" 
-  date_start = "2017-03-01" 
-  date_end = "2017-09-30" 
+  title = "Data Analyst"
+  company = "PREDICTA S.A. (former SPSS BI GREECE S.A.)"
+  company_url = "http://www.predicta.gr/"
+  location = "Greece"
+  date_start = "2017-03-01"
+  date_end = "2017-09-30"
   description = "Project: International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece."
 
 +++
