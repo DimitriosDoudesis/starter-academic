@@ -25,14 +25,24 @@
   location = "United Kingdom"
   date_start = "2022-03-01"
   date_end = ""
-  description = "NIHR (AI_AWARD02322) & BHF (TA/F/22/210039) funding awards"
+  description = ""
 
 [[experience]]
-  title = "Postdoctoral"
+  title = "Course Lead - Health Data Science"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
-  date_start = "2021-03-01"
-  date_end = "2021-03-02"
+  date_start = "2022-03-01"
+  date_end = ""
+  description = ""
+
+
+[[experience]]
+  title = "Research Fellow"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2022-28-2"
+  date_end = "2021-10-01"
   description = ""
 +++
