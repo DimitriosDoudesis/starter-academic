@@ -43,6 +43,6 @@
   location = "Greece" 
   date_start = "2017-03-01" 
   date_end = "2017-09-30" 
-  description = ""
+  description = "Project: International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece."
 
 +++
