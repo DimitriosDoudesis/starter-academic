@@ -36,4 +36,13 @@
   date_end = "2021-09-30" 
   description = ""
 
+[[experience]] 
+  title = "Data Analyst" 
+  company = "PREDICTA S.A. (former SPSS BI GREECE S.A.)" 
+  company_url = "http://www.predicta.gr/" 
+  location = "Greece" 
+  date_start = "2017-03-01" 
+  date_end = "2017-09-30" 
+  description = "Project: International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece.
+  
 +++
