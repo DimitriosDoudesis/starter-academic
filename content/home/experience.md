@@ -27,15 +27,6 @@
   date_end = ""
   description = ""
 
-[[experience]]
-  title = "Research Fellow"
-  company = "The University of Edinburgh"
-  company_url = "https://www.ed.ac.uk/"
-  location = "United Kingdom"
-  date_start = "2021-10-01"
-  date_end = "2022-2-2"
-  description = ""
-  
 [[experience]] 
   title = "Teaching Assistant/Tutor" 
   company = "The University of Edinburgh" 
