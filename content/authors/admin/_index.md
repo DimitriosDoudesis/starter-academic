@@ -82,6 +82,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Research Fellow in **Data Science/Precision Medicine** at The University of Edinburgh. I studied **Statistics** at The Athens University of Economics and Business (2017), and completed an MSc in **Medical Statistics** at The University of Southampton (2018). I did my PhD in Data Science/Precision Medicine at The University of Edinburgh. I have previously worked as a Data Analyst at PREDICTA S.A. (former SPSS BI GREECE S.A.).  
+I am a Postdoctoral Research Fellow in **Data Science/Precision Medicine** at The University of Edinburgh. I studied **Statistics** at The Athens University of Economics and Business (2017), and completed an MSc in **Medical Statistics** at The University of Southampton (2018). I did my PhD in **Data Science/Precision Medicine** at The University of Edinburgh (2022). I have previously worked as a Data Analyst at PREDICTA S.A. (former SPSS BI GREECE S.A.).  
 
 My research interests are machine learning, deep learning, medical statistics, cardiology and R Shiny app development as clinical decision-support tools.

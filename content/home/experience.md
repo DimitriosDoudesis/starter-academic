@@ -25,7 +25,17 @@
   location = "United Kingdom"
   date_start = "2022-03-01"
   date_end = ""
-  description = """
+  description = "NIHR (AI_AWARD02322) & BHF (TA/F/22/210039) funding awards""
+  """
+  
+[[experience]]
+  title = "Research Fellow (part-time)"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2021-10-01"
+  date_end = "2022-28-02"
+  description = "NIHR funding (AI_AWARD02322)""
   """
 
 +++
