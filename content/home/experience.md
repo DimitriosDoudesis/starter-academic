@@ -26,6 +26,15 @@
   date_start = "2022-03-01"
   date_end = ""
   description = ""
+  
+[[experience]]
+  title = "Research Fellow"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2021-10-01"
+  date_end = "2022-2-28"
+  description = ""
 
 [[experience]] 
   title = "Teaching Assistant/Tutor" 
@@ -35,6 +44,15 @@
   date_start = "2021-09-01" 
   date_end = "2021-09-30" 
   description = ""
+
+[[experience]]
+  title = "Research Assistant" 
+  company = "The University of Edinburgh" 
+  company_url = "https://www.ed.ac.uk/" 
+  location = "United Kingdom" 
+  date_start = "2020-04-01" 
+  date_end = "2020-09-30" 
+  description = "Project: Student perspectives on Learning and Teaching Data Science in the MBChB programme."
 
 [[experience]] 
   title = "Data Analyst" 
