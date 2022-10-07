@@ -27,5 +27,12 @@
   date_end = ""
   description = "NIHR (AI_AWARD02322) & BHF (TA/F/22/210039) funding awards"
 
-
+[[experience]]
+  title = "Postdoctoral"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2021-03-01"
+  date_end = "2021-03-02"
+  description = ""
 +++
