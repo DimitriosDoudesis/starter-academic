@@ -55,8 +55,7 @@
   location = "United Kingdom" 
   date_start = "2021-09-01" 
   date_end = "2021-09-30" 
-  description = """ Courses:
-"""
+  description = ""
 
 [[experience]]
   title = "Research Assistant" 
