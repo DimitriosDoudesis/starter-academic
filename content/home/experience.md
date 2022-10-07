@@ -44,7 +44,7 @@
   date_start = "2021-10-01"
   date_end = "2022-02-28"
   description = ""
-
+ 
 [[experience]] 
   title = "Teaching Assistant/Tutor" 
   company = "The University of Edinburgh" 
