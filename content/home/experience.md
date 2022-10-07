@@ -33,7 +33,7 @@
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
   date_start = "2021-10-01"
-  date_end = "2022-28-2"
+  date_end = "2022-2-2"
   description = ""
   
 [[experience]] 
@@ -41,19 +41,9 @@
   company = "The University of Edinburgh" 
   company_url = "https://www.ed.ac.uk/" 
   location = "United Kingdom" 
-  date_start = "2019-09-01" 
+  date_start = "2021-09-01" 
   date_end = "2021-09-30" 
-  description = """ Courses:
-    - Health Data Science
-    - Data Science in Medicine
-    - Machine Learning in Python
-    - Biomedical Data Science
-    - Advanced Epidemiology
-    - Introduction to Statistics
-    - Statistics (Year 2)
-    - Statistical Modelling
-    - Statistical Computing
-"""
+  description = ""
 
 [[experience]] 
   title = "Research Assistant" 
