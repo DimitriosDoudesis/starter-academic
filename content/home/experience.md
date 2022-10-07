@@ -28,6 +28,15 @@
   description = ""
   
 [[experience]]
+  title = "Postdoctoral Research Fellow2"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = ""  
+  
+[[experience]]
   title = "Research Fellow"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
