@@ -28,13 +28,15 @@
   description = ""
   
 [[experience]]
-  title = "Postdoctoral Research Fellow2"
+  title = "Course Lead - Health Data Science"
   company = "The University of Edinburgh"
-  company_url = "https://www.ed.ac.uk/"
+  company_url = "https://www.ed.ac.uk/bayes/about-us/education/workforce-development/courses/health-data-science-23"
   location = "United Kingdom"
   date_start = "2022-09-01"
   date_end = ""
-  description = ""  
+  description = "The course aims to provide a broad introduction to data science in health, covering key concepts and principles, data analysis skills and implications of working with healthcare data. Key topics in the course include: types of health data; computational methods (e.g. process modelling and machine learning); data wrangling, analysis and reporting using the R programming language; legal considerations and bias in health data. This online course is based around short recorded videos, which are complemented with readings and discussions in the forums. Hands-on programming tasks in R will equip students with key data skills, and online tutorials will allow students to ask questions and discuss topics of interest.
+  
+  https://www.ed.ac.uk/bayes/about-us/education/workforce-development/courses/health-data-science-23"  
   
 [[experience]]
   title = "Research Fellow"
@@ -44,7 +46,7 @@
   date_start = "2021-10-01"
   date_end = "2022-02-28"
   description = ""
- 
+
 [[experience]] 
   title = "Teaching Assistant/Tutor" 
   company = "The University of Edinburgh" 
@@ -52,7 +54,18 @@
   location = "United Kingdom" 
   date_start = "2021-09-01" 
   date_end = "2021-09-30" 
-  description = ""
+  description = """ Courses:
+
+    Health Data Science
+    Data Science in Medicine
+    Machine Learning in Python
+    Biomedical Data Science
+    Advanced Epidemiology
+    Introduction to Statistics
+    Statistics (Year 2)
+    Statistical Modelling
+    Statistical Computing
+"""
 
 [[experience]]
   title = "Research Assistant" 
