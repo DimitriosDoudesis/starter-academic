@@ -33,7 +33,7 @@
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
   date_start = "2021-10-01"
-  date_end = "2022-2-28"
+  date_end = "2022-02-28"
   description = ""
 
 [[experience]] 
