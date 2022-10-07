@@ -30,14 +30,11 @@
 [[experience]]
   title = "Course Lead - Health Data Science"
   company = "The University of Edinburgh"
-  company_url = "https://www.ed.ac.uk/bayes/about-us/education/workforce-development/courses/health-data-science-23"
+  company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
   date_start = "2022-09-01"
   date_end = ""
-  description = "The course aims to provide a broad introduction to data science in health, covering key concepts and principles, data analysis skills and implications of working with healthcare data. Key topics in the course include: types of health data; computational methods (e.g. process modelling and machine learning); data wrangling, analysis and reporting using the R programming language; legal considerations and bias in health data. This online course is based around short recorded videos, which are complemented with readings and discussions in the forums. Hands-on programming tasks in R will equip students with key data skills, and online tutorials will allow students to ask questions and discuss topics of interest.
-  
-  https://www.ed.ac.uk/bayes/about-us/education/workforce-development/courses/health-data-science-23
-  https://www.ed.ac.uk/medicine-vet-medicine/postgraduate/postgraduate-blog/free-upskilling-with-health-data-science-course"  
+  description = "" 
   
 [[experience]]
   title = "Research Fellow"
