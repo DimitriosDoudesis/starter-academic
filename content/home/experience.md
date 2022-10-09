@@ -64,6 +64,7 @@
   * Statistics (Year 2)
   * Statistical Modelling
   * Statistical Computing
+  
   """
 
 [[experience]] 
@@ -73,7 +74,7 @@
   location = "United Kingdom"
   date_start = "2020-04-01"
   date_end = "2020-09-30"
-  description = "Project: Student perspectives on Learning and Teaching Data Science in the MBChB programme."
+  description = "Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.*"
 
 [[experience]] 
   title = "Data Analyst"
@@ -82,6 +83,6 @@
   location = "Greece"
   date_start = "2017-03-01"
   date_end = "2017-09-30"
-  description = "Project: International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece."
+  description = "Project: *International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece.*"
 
 +++
