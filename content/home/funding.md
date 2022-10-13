@@ -19,15 +19,35 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "MRC"
+  organization = "BHF"
   organization_url = ""
-  title = "Medical Research Council Confidence in Concept award (MRC/CIC8/79)"
+  title = "British Heart Foundation Translational Award (TA/F/22/210039)"
   url = ""
   certificate_url = ""
-  date_start = "2020-01-01"
+  date_start = "2022-01-01"
   date_end = ""
-  description = "Project: *AI guided diagnosis of acute heart failure using the CoDE-HF algorithm.* £117,500 (Co-applicant)"
+  description = "Project: *Artificial Intelligence to Guide the Diagnosis of Acute Heart Failure using the CoDE-HF Algorithm.* £265,622 (Co-applicant)"
   
+[[item]]
+  organization = "NIHR and NHSX"
+  organization_url = ""
+  title = "Accelerated Access Collaborative in partnership with NHSX and the National Institute for Health Research Artificial Intelligence in Health and Care Award (AI_AWARD02322)"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-03"
+  date_end = ""
+  description = "Project: *Machine learning to improve the diagnosis of acute myocardial infarction.* £134,589 (Co-applicant)"
+
+[[item]]
+  organization = "BHF"
+  organization_url = ""
+  title = "British Heart Foundation Centre for Research Excellence. Top-up to the MRC/CIC8/79 award"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-02"
+  date_end = ""
+  description = "Project: *AI guided diagnosis of acute heart failure using the CoDE-HF algorithm.* £24,741 (Co-applicant)"
+
 [[item]]
   organization = "MRC"
   organization_url = ""
@@ -36,7 +56,17 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2021-01-01"
   date_end = ""
-  description = "*A Translational Bursary for training and development in Translation and Commercialisation.* £1,613"
+  description = "*A Translational Bursary for training and development in Translation and Commercialisation.* £1,613 (PI)"
+
+[[item]]
+  organization = "MRC"
+  organization_url = ""
+  title = "Medical Research Council Confidence in Concept award (MRC/CIC8/79)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = "Project: *AI guided diagnosis of acute heart failure using the CoDE-HF algorithm.* £143,800 (Co-applicant)"
   
 [[item]]
   organization = "MRC"
@@ -46,7 +76,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2018-10-03"
   date_end = ""
-  description = "The University of Edinburgh, 3.5 years - fees, stipend and programme costs, £85,960"
+  description = "The University of Edinburgh, 3.5 years - fees, stipend and research costs, £85,960 (Scholarship)"
 
 [[item]]
   organization = "NIHR"
@@ -56,7 +86,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2017-10-02"
   date_end = ""
-  description = "The University of Southampton, 1 year - fees and stipend, £23,553"
+  description = "The University of Southampton, 1 year - fees and stipend, £23,553 (Scholarship)"
   
 
 +++
