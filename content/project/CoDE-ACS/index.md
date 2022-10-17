@@ -1,8 +1,8 @@
 ---
 aliases: []
-title: CoDE-HF 
-summary: Collaboration for the Diagnosis and Evaluation of acute Heart Failure
-abstract: ""
+title: CoDE-ACS 
+summary: Collaboration for the Diagnosis and Evaluation of Acute Coronary Syndrome
+abstract: "A decision support tool for the diagnosis of acute myocardial infarction in the Emergency Department"
 date: "2021-01-27T00:00:00Z"
 image:
   caption: ''
