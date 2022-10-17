@@ -10,8 +10,8 @@ image:
 links:
 - icon: door-open
   icon_pack: fas
-  name: Shiny app
-  url: https://code-hf.shinyapps.io/code-hf/
+  name: Link to the Shiny app
+  url: https://decision-support.shinyapps.io/code-hf/
 
 
 categories:
@@ -21,5 +21,3 @@ tags:
 - R
 - Shiny
 ---
-
-To do
