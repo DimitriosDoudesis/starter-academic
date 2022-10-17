@@ -10,8 +10,12 @@ image:
 links:
 - icon: door-open
   icon_pack: fas
-  name: course website
-  url: https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/health-data-science
+  name: course website 1
+  url: https://www.ed.ac.uk/bayes/about-us/education/workforce-development/courses/health-data-science-23
+- icon: door-open
+  icon_pack: fas
+  name: course website 2
+  url: https://www.ed.ac.uk/medicine-vet-medicine/postgraduate/postgraduate-blog/free-upskilling-with-health-data-science-course
 
 
 categories:
@@ -22,4 +26,3 @@ tags:
 - course
 ---
 
-To do

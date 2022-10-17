@@ -10,9 +10,12 @@ image:
 links:
 - icon: door-open
   icon_pack: fas
-  name: publication under review
-  url: 
-
+  name: published in The BMJ
+  url: https://www.bmj.com/content/377/bmj-2021-068424
+- icon: door-open
+  icon_pack: fas
+  name: Link to the Shiny app
+  url: https://decision-support.shinyapps.io/code-hf/
 
 
 categories:
@@ -22,5 +25,3 @@ tags:
 - R
 - machine learning
 ---
-
-To do

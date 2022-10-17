@@ -10,13 +10,8 @@ image:
 links:
 - icon: door-open
   icon_pack: fas
-  name: publication
-  url: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.041980
-- icon: door-open
-  icon_pack: fas
-  name: publication under review
-  url: 
-
+  name: published in the Lancet Digital Health
+  url: https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00025-5/fulltext
 
 categories:
 - publication
@@ -26,4 +21,3 @@ tags:
 - cardiology
 ---
 
-To do
