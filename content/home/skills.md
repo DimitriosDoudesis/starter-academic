@@ -21,6 +21,12 @@ subtitle = ""
   description = ""
   
 [[feature]]
+  icon = "shiny"
+  icon_pack = "custom"
+  name = "Shiny"
+  description = ""
+  
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
@@ -30,12 +36,6 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = ""
-  
-[[feature]]
-  icon = "shiny"
-  icon_pack = "custom"
-  name = "Shiny"
   description = ""
   
 [[feature]]
