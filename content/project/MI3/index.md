@@ -10,7 +10,7 @@ image:
 links:
 - icon: door-open
   icon_pack: fas
-  name: published in the Lancet Digital Health
+  name: publication
   url: https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00025-5/fulltext
 
 categories:

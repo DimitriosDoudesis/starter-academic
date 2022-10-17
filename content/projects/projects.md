@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Selection of projects along with the publication and links to the Shiny apps"
 
 [content]
   # Page type to display. E.g. project.

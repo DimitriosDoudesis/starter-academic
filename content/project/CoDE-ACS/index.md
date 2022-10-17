@@ -10,12 +10,12 @@ image:
 links:
 - icon: door-open
   icon_pack: fas
-  name: publication
-  url: https://www.bmj.com/content/377/bmj-2021-068424
+  name: publication under review
+  url:
 - icon: door-open
   icon_pack: fas
   name: Link to the Shiny app
-  url: https://decision-support.shinyapps.io/code-hf/
+  url: https://decision-support.shinyapps.io/code-acs/
 
 
 categories:

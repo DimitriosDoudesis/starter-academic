@@ -10,9 +10,8 @@ image:
 links:
 - icon: door-open
   icon_pack: fas
-  name: published in the BMC Infectious Diseases
+  name: publication
   url: https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-05976-1
-
 
 
 categories:
