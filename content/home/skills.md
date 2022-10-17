@@ -47,7 +47,7 @@ subtitle = ""
 [[feature]]
   icon = "spss"
   icon_pack = "custom"
-  name = "SPSS Modeller"
+  name = "SPSS Modeler"
   description = ""
 
 # Uncomment to use emoji icons.
