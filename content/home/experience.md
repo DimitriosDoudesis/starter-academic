@@ -28,7 +28,7 @@
   description = ""
 
 [[experience]] 
-  title = "Course Lead - Health Data Science"
+  title = "Lecturer - Health Data Science"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
@@ -43,7 +43,7 @@
   location = "United Kingdom"
   date_start = "2021-10-01"
   date_end = "2022-02-28"
-  description = ""
+  description = "Wrote a grant for and obtained funding from NIHR and NHSX for the development and validation of a machine learning algorithm to improve the diagnosis of heart attack. Was also responsible for the project management and the overall delivery of the grant (AI_AWARD02322)."
 
 [[experience]] 
   title = "Teaching Assistant/Tutor"
@@ -83,6 +83,6 @@
   location = "Greece"
   date_start = "2017-03-01"
   date_end = "2017-09-30"
-  description = "Project: *International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece.*"
+  description = "Worked as a Consultant for a systemic bank in Greece. Resigned from this position to pursue an MSc in the UK. Project: *International Financial Reporting Standards (IFRS) 9 for a systemic bank in Greece*."
 
 +++

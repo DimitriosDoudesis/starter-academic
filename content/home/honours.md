@@ -20,6 +20,16 @@ date_format = "2006"
 
 
 [[item]]
+  organization = "Scottish Heart and Arterial disease Risk Prevention [SHARP] Conference"
+  organization_url = ""
+  title = "First prize"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-12-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "BHF/Centre for Cardiovascular Science Symposium"
   organization_url = ""
   title = "Innovation Award"
