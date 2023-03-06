@@ -74,7 +74,7 @@
   location = "United Kingdom"
   date_start = "2020-04-01"
   date_end = "2020-09-30"
-  description = "Project: *Student perspectives on Learning and Teaching Data Science in the MBChB programme.*"
+  description = "Worked as a Research Assistant for Dr Areti Manataki on the project *“Student perspectives on Learning and Teaching Data Science in the MBChB programme”*. Publication: Doudesis D & Manataki A. 2022;159:104668."
 
 [[experience]] 
   title = "Data Analyst"

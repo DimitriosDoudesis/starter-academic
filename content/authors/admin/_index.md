@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, statistics and precision medicine.
+bio: My research interests include machine learning, medical statistics and precision medicine.
 
 interests:
 - Machine Learning
@@ -69,7 +69,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "d.doudesis@gmail.com | dimitrios.doudesis@ed.ac.uk"
+email: "d.doudesis@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -83,4 +83,4 @@ user_groups:
 
 I am currently a Postdoctoral Research Fellow and Lecturer of the Health Data Science course at The University of Edinburgh, where I specialize in **Data Science** and **Precision Medicine**. I hold a Bachelor's degree in **Statistics** from The Athens University of Economics and Business (2017) and a Master's degree in **Medical Statistics** from The University of Southampton (2018). In 2022, I completed my PhD in **Data Science** at The University of Edinburgh.
 
-Prior to this, I worked as a Data Analyst at PREDICTA S.A. (formerly SPSS BI GREECE S.A.). My research interests lie in the fields of machine learning, deep learning, medical statistics, cardiology, and the development of R Shiny apps as clinical decision-support tools.
+Prior to this, I worked as a Data Analyst at PREDICTA S.A. (formerly SPSS BI GREECE S.A.). My research interests lie in the fields of machine learning, medical statistics, cardiology, and the development of R Shiny apps as clinical decision-support tools.
