@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "British Society for Cardiovascular Research [BSCR]"
   organization_url = ""
-  title = Bernard and Joan Marshall Early Career Investigator Award, Runner-up"
+  title = "Bernard and Joan Marshall Early Career Investigator Award, Runner-up"
   url = ""
   certificate_url = ""
   date_start = "2023-09-01"
@@ -35,7 +35,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2024-07-01"
   date_end = ""
-  description = "Sponsored by Edinburgh Innovations & iTPA Translational Community"
+  description = ""
 
 [[item]]
   organization = "Scottish Heart and Arterial disease Risk Prevention [SHARP] Conference"
