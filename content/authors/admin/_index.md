@@ -54,9 +54,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dimitrios-doudesis-phd/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-6699-9476
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0001-6699-9476
 - icon: github
   icon_pack: fab
   link: https://github.com/DimitriosDoudesis
