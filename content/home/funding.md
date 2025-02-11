@@ -26,7 +26,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2025-01-01"
   date_end = ""
-  description = "Project: *Artificial intelligence to improve the diagnosis of acute cardiovascular conditions.* £343,663 (Principal Investigator)"
+  description = "Project: *Artificial intelligence to improve the diagnosis of acute cardiovascular conditions.* £343,663 (Principal Investigator)" 
   
 [[item]]
   organization = "MRC"
