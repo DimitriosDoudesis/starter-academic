@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Principal Investigator | Senior Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -22,6 +22,7 @@ bio: My research interests include machine learning, medical statistics and prec
 
 interests:
 - Machine Learning
+- Deep Learning
 - Medical Statistics
 - Precision Medicine
 - Cardiology
@@ -29,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Data Science
+  - course: PhD in Data Science/Precision Medicine
     institution: University of Edinburgh
     year: 2022
   - course: MSc in Medical Statistics
@@ -50,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2CfnVDgAAAAJ&hl=enJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dimitrios-doudesis-phd/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6699-9476
@@ -81,6 +85,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Postdoctoral Research Fellow and Lecturer of the Health Data Science course at The University of Edinburgh, where I specialize in **Data Science** and **Precision Medicine**. I hold a Bachelor's degree in **Statistics** from The Athens University of Economics and Business (2017) and a Master's degree in **Medical Statistics** from The University of Southampton (2018). In 2022, I completed my PhD in **Data Science** at The University of Edinburgh.
+I am currently a **Principal Investigator** and **Senior Data Scientist** at The University of Edinburgh, funded by the British Heart Foundation, specialising in Data Science and Precision Medicine. I also lecture on the Health Data Science course.
 
-Prior to this, I worked as a Data Analyst at PREDICTA S.A. (formerly SPSS BI GREECE S.A.). My research interests lie in the fields of machine learning, medical statistics, cardiology, and the development of R Shiny apps as clinical decision-support tools.
+I hold a Bachelor's degree in **Statistics** from The Athens University of Economics and Business (2017) and a Master's degree in **Medical Statistics** from The University of Southampton (2018). In 2022, I completed my PhD in **Data Science/Precision Medicine** at The University of Edinburgh.
+
+Prior to this, I worked as a Data Analyst at PREDICTA S.A. (formerly SPSS BI GREECE S.A.). My research interests lie in the fields of machine learning, deep learning, medical statistics, cardiology, and the development of R Shiny apps as clinical decision-support tools.
