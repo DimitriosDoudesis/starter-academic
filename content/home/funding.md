@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Grants"
+title = "Grants [Total £2,2M]"
 subtitle = ""
 
 # Date format
@@ -17,6 +17,36 @@ date_format = "2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "BHF"
+  organization_url = ""
+  title = "British Heart Foundation Project Grant (PG/24/12136)"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-01-01"
+  date_end = ""
+  description = "Project: *Artificial intelligence to improve the diagnosis of acute cardiovascular conditions.* £343,663 (Principal Investigator)"
+  
+[[item]]
+  organization = "MRC"
+  organization_url = ""
+  title = "Medical Research Council Impact Acceleration Account Award (MRC/IAA/021)"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-11-01"
+  date_end = ""
+  description = "Project: *Artificial intelligence for the diagnosis of acute pulmonary embolism in the Emergency Department.* £99,650 (Principal Investigator)"
+  
+[[item]]
+  organization = "Wellcome Leap"
+  organization_url = ""
+  title = "Artificial intelligence in acute cardiac care"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-02-01"
+  date_end = ""
+  description = "Project: *Artificial intelligence in acute cardiac care.* £1,2M (Co-applicant)"
 
 [[item]]
   organization = "BHF"
