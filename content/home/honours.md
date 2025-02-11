@@ -18,6 +18,24 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "British Society for Cardiovascular Research [BSCR]"
+  organization_url = ""
+  title = Bernard and Joan Marshall Early Career Investigator Award, Runner-up"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-09-01"
+  date_end = ""
+
+[[item]]
+  organization = "BHF/Centre for Cardiovascular Science Symposium"
+  organization_url = ""
+  title = "Postdoctoral poster prize, Runner-up"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-07-01"
+  date_end = ""
+  description = "Sponsored by Edinburgh Innovations & iTPA Translational Community"
 
 [[item]]
   organization = "Scottish Heart and Arterial disease Risk Prevention [SHARP] Conference"
