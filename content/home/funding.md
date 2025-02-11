@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Grants [Total £2,2M]"
-subtitle = ""
+title = "Grants"
+subtitle = "Total £2,2M"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -26,7 +26,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2025-01-01"
   date_end = ""
-  description = "Project: *Artificial intelligence to improve the diagnosis of acute cardiovascular conditions.* £343,663 (Principal Investigator)" 
+  description = "Project: *Artificial intelligence to improve the diagnosis of acute cardiovascular conditions.* £343,663 (Principal Investigator)"
   
 [[item]]
   organization = "MRC"
