@@ -19,11 +19,20 @@
   #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[experience]] 
-  title = "Postdoctoral Research Fellow"
+  title = "Principal Investigator"
   company = "The University of Edinburgh"
   company_url = "https://www.ed.ac.uk/"
   location = "United Kingdom"
-  date_start = "2022-03-01"
+  date_start = "2025-01-01"
+  date_end = ""
+  description = "**Funded by the British Heart Foundation**"
+  
+[[experience]] 
+  title = "Senior Data Scientist"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2023-11-01"
   date_end = ""
   description = ""
 
@@ -34,6 +43,15 @@
   location = "United Kingdom"
   date_start = "2022-09-01"
   date_end = ""
+  description = ""
+  
+[[experience]] 
+  title = "Postdoctoral Research Fellow"
+  company = "The University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/"
+  location = "United Kingdom"
+  date_start = "2022-03-01"
+  date_end = "2023-10-31"
   description = ""
 
 [[experience]] 

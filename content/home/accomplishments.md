@@ -19,6 +19,16 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "The University of Edinburgh"
+  organization_url = ""
+  title = "Usher Institute, Health and Social Care Data-Driven Innovation Hub"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-02-03"
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "Carpentries"
   organization_url = ""
   title = "Certified Carpentries Instructor (R/RStudio), "
